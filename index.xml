@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>enblog</title>
     <link>https://blog.enpotid.com/</link>
     <description>Recent content on enblog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 May 2025 18:42:06 +0900</lastBuildDate>
     <atom:link href="https://blog.enpotid.com/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <link>https://blog.enpotid.com/posts/first/</link>
       <pubDate>Fri, 09 May 2025 18:42:06 +0900</pubDate>
       <guid>https://blog.enpotid.com/posts/first/</guid>
-      <description>&lt;p&gt;처음 해보는 블로그이다.&#xA;앞으로 이 곳에 여러 글들을 써볼 예정이다.&lt;/p&gt;</description>
+      <description>&lt;p&gt;처음 해보는 블로그이다.
+앞으로 이 곳에 여러 글들을 써볼 예정이다.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
