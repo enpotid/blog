@@ -1,8 +1,4 @@
 baseURL = 'https://blog.enpotid.com/'
 languageCode = 'en-us'
 title = 'enblog'
-
-[menu]
-main = [
-    { name = "Archives", url = "archives" },
-]
+theme = 'book'
