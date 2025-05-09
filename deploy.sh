@@ -2,7 +2,7 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-hugo -t book
+hugo -t Book
 
 cd public
 git add .
