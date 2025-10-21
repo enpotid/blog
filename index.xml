@@ -6,8 +6,19 @@
     <description>Recent content on enblog</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 18:42:06 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 23:32:01 +0900</lastBuildDate>
     <atom:link href="https://blog.enpotid.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Hail Mary</title>
+      <link>https://blog.enpotid.com/posts/project-hail-mary/</link>
+      <pubDate>Tue, 21 Oct 2025 23:32:01 +0900</pubDate>
+      <guid>https://blog.enpotid.com/posts/project-hail-mary/</guid>
+      <description>&lt;h1 id=&#34;프로젝트-해일메리-후기&#34;&gt;프로젝트 해일메리 후기&lt;/h1&gt;
+&lt;p&gt;과학을 좋아하는 입장에서 정말 흥미롭게 읽은 책이었다.&lt;br&gt;
+개인적으로 소설 중 이 작품을 뛰어넘는 것이 별로 없다고 생각된다.&lt;br&gt;
+내년 3월에 영화로 개봉 예정인데 러닝타임을 최대한 늘려서라도&lt;br&gt;
+원작의 이야기를 잘라내지 않고 넣어줬으면 한다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First</title>
       <link>https://blog.enpotid.com/posts/first/</link>
@@ -15,17 +26,6 @@
       <guid>https://blog.enpotid.com/posts/first/</guid>
       <description>&lt;p&gt;처음 해보는 블로그이다.
 앞으로 이곳에 여러 글들을 써볼 예정이다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://blog.enpotid.com/posts/project-hail-mary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.enpotid.com/posts/project-hail-mary/</guid>
-      <description>&lt;h1 id=&#34;프로젝트-해일메리-후기&#34;&gt;프로젝트 해일메리 후기&lt;/h1&gt;
-&lt;p&gt;과학을 좋아하는 입장에서 정말 흥미롭게 읽은 책이었다.&lt;br&gt;
-개인적으로 소설 중 이 작품을 뛰어넘는 것이 별로 없다고 생각된다.&lt;br&gt;
-내년 3월에 영화로 개봉 예정인데 러닝타임을 최대한 늘려서라도&lt;br&gt;
-원작의 이야기를 잘라내지 않고 넣어줬으면 한다.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
