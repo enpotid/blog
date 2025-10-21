@@ -2,3 +2,12 @@ baseURL = 'https://blog.enpotid.com/'
 languageCode = 'en-us'
 title = 'enblog'
 theme = "PaperMod"
+
+[params]
+social = true
+socialIcons = [
+    { name = "github", url = "https://github.com/enpotid" }
+]
+
+[params.homeInfoParams]
+Title = "Welcome to enblog"
